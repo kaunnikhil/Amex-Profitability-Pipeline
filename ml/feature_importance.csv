@@ -1,0 +1,32 @@
+feature,importance,feature_label
+f1,0.14620784,Revolving Balance (f1)
+is_revolver,0.14247245,Is Revolver Flag
+f7,0.13163848,Spend Cat 2 - Largest (f7)
+f3,0.13135561,Collection Flag (f3)
+true_total_spend,0.12291763,True Total Spend
+f10,0.085312575,Spend Cat 5 (f10)
+f6,0.036161847,Spend Cat 1 (f6)
+f7_pct_of_spend,0.032106604,f7 Share of Spend
+f11,0.023507046,Default Probability (f11)
+f16,0.02179829,Ent Benefit (f16)
+f19,0.01908193,Supplementary Cards (f19)
+f4,0.012883746,Rewards Balance (f4)
+f20,0.011113651,Benefit Usage (f20)
+f10_pct_of_spend,0.010656804,f10 Share of Spend
+f2,0.0096396925,Retention Flag (f2)
+f6_pct_of_spend,0.009429662,f6 Share of Spend
+f23,0.00812105,Other Signal (f23)
+f21,0.0069520394,Rewards Points (f21)
+f14,0.005984265,Air Benefit (f14)
+f17,0.0057529556,Credit Limit (f17)
+f15,0.005591156,Cab Trips (f15)
+f9,0.0047645085,Spend Cat 4 (f9)
+f13,0.0037120304,Lounge Visits (f13)
+engagement_score,0.0026488567,Engagement Score
+f9_pct_of_spend,0.0020913365,f9 Share of Spend
+credit_utilization,0.0016732758,Credit Utilization Ratio
+f22,0.0016225248,Email Engagement (f22)
+f8,0.0015520316,Spend Cat 3 (f8)
+f18,0.0013103366,Credit Balance (f18)
+f12,0.001239478,Login Count (f12)
+f8_pct_of_spend,0.00070035004,f8 Share of Spend

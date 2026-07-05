@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+scikit-learn
+lightgbm
+xgboost
+catboost
+matplotlib
+seaborn
+jupyterlab
+openpyxl
+google-cloud-storage>=2.10.0
+google-cloud-bigquery>=3.11.0
+pyarrow>=14.0.0
+db-dtypes>=1.1.0
+
