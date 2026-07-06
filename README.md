@@ -9,30 +9,31 @@
 
 End-to-end data science project built on an AMEX Premier card portfolio (500K customers, 23 features). The work spans a scoring competition, a cloud data pipeline, SQL analytics, machine learning, and executive dashboards.
 
-The Features were:-
-f1	Average Revolve Balance in last 12m
-f2	Cancellation Calls in last 12m
-f3	Cancellation Calls due to Collection
-f4	Rewards Points Balance
-f5	Total Spend in last 12m
-f6	Airlines Spend in 12m
-f7	Other Spend in 12m
-f8	Entertainment Spend in 12m
-f9	Lodging Spend in 12m
-f10	Dining Spend in 12m
-f11	Average Risk Score in 12m
-f12	Login Counts to website
-f13	Lounge Access Count
-f14	Credits used in airlines
-f15	Cab benefits usage
-f16	Entertainment Credit Used Amount
-f17	Total Lend Line Amount
-f18	Total Consumer Lend Line Amount
-f19	Number of Supplementary Accounts
-f20	Count of Active Charge Cards
-f21	Rewards point redeemed in 12months
-f22	Emails Open in Last 6 months
-f23	Emails Clicked in Last 6 months
+| Feature | Description |
+|---|---|
+| f1 | Average Revolve Balance in last 12m |
+| f2 | Cancellation Calls in last 12m |
+| f3 | Cancellation Calls due to Collection |
+| f4 |	Rewards Points Balance |
+| f5 |	Total Spend in last 12m |
+| f6 |	Airlines Spend in 12m |
+| f7 |	Other Spend in 12m |
+| f8 |	Entertainment Spend in 12m |
+| f9 |	Lodging Spend in 12m |
+| f10 | Dining Spend in 12m |
+| f11 | Average Risk Score in 12m |
+| f12 | Login Counts to website |
+| f13 | Lounge Access Count |
+| f14 | Credits used in airlines |
+| f15 | Cab benefits usage |
+| f16 | Entertainment Credit Used Amount |
+| f17 | Total Lend Line Amount |
+| f18 | Total Consumer Lend Line Amount |
+| f19 | Number of Supplementary Accounts |
+| f20 | Count of Active Charge Cards |
+| f21 | Rewards point redeemed in 12months |
+| f22 | Emails Open in Last 6 months |
+| f23 | Emails Clicked in Last 6 months |
 
 
 **The central finding:** The dataset's reported total spend field (`f5`) understated true spend by **14x**. Reconstructing spend from sub-category fields (`f6–f10`) was the foundational fix that drove all subsequent improvements.
